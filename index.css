@@ -1,0 +1,374 @@
+.bg {
+    background-image: url(./Assets/Hero-bg.png);
+    width: 1470px;
+    height: 698px;
+}
+
+.span-content {
+    display: flex;
+    gap: 909px;
+    padding-top: 50px;
+}
+
+.logo {
+    color: #4E47FF;
+    font-size: 34px;
+    font-weight: bold;
+    font-family: 'Inter', 'Open Sans', Arial, sans-serif;
+    padding-left: 150px;
+    width: 99px;
+    height: 51px;
+
+}
+
+.button {
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+    padding: 12px 36px;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+}
+
+.header-description {
+    font-size: 65px;
+    font-weight: bold;
+    padding-top: 158px;
+    padding-left: 267.5;
+    padding-right: 267.5;
+    color: #252432;
+    font-family: 'Raleway', Arial, sans-serif;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: rgb(233, 110, 110);
+    cursor: pointer;
+}
+
+.header-button-2:hover {
+    background-color: rgb(233, 110, 110);
+    cursor: pointer;
+}
+
+
+.header-button-2 {
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+    padding: 12px 36px;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+
+}
+
+.nd-button {
+    padding-left: 633px;
+    padding-top: 37px;
+    padding-right: 633px;
+    width: 174px;
+    height: 48px;
+}
+
+.action {
+    display: flex;
+    gap: 220px;
+    padding-top: 116px;
+    padding-left: 141px;
+    padding-right: 159px;
+    padding-bottom: 116px;
+}
+
+.action-title {
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    font-family: 'Raleway', Arial, sans-serif;
+    padding-top: 62.5px;
+}
+
+.action-description {
+    color: #252432;
+    font-size: 24px;
+    font-family: 'Raleway', Arial, sans-serif;
+    padding-top: 23px;
+    padding-bottom: 23px;
+}
+
+.action-button {
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+    padding: 12px 36px;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+}
+
+.action-button:hover {
+    background-color: rgb(233, 110, 110);
+    cursor: pointer;
+}
+
+.action-button-main {
+    width: 229px;
+    height: 48px;
+}
+
+.action-img {
+    border-radius: 48px;
+}
+
+.user {
+    border-radius: 24px;
+    background-color: #c4c4f87b;
+
+    margin-top: 50px;
+    margin-right: 138px;
+    margin-left: 180px;
+    margin-bottom: 175px;
+    width: 1100px;
+    height: 300px;
+}
+
+.user-title {
+    text-align: center;
+    font-size: 38px;
+    font-family: 'Raleway', Arial, sans-serif;
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+.user-first {
+    display: flex;
+    gap: 158px;
+    padding-top: 40px;
+
+    justify-content: center;
+
+
+}
+
+.user-secoend {
+    display: flex;
+    gap: 188px;
+    justify-content: center;
+
+
+
+}
+
+
+.user-11 {
+    font-size: 80px;
+    font-family: 'Inter',
+        'Open Sans',
+        Arial,
+        sans-serif;
+    font-weight: bold;
+    color: #4E47FF;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+
+
+}
+
+.user-a {
+    color: #8b8888;
+    font-size: 20px;
+    font-family: 'Inter',
+        'Open Sans',
+        Arial,
+        sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+
+.card {
+    font-family: 'Raleway', Arial, sans-serif;
+    font-size: 52px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 50px;
+    padding-bottom: 137px;
+
+}
+
+.card-first {
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 14px;
+    padding: 24px;
+    width: 366px;
+    height: 243px;
+}
+
+.card-footer {
+    display: flex;
+    gap: 20px;
+}
+
+.card-image-two {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding-top: 15px;
+}
+
+.card-title {
+    font-size: 25px;
+    font-family: 'Raleway', Arial, sans-serif;
+    font-weight: bold;
+    width: 500px;
+    height: 29px;
+}
+
+.new {
+    color: rgb(116, 115, 115);
+}
+
+.better {
+    background-color: azure;
+    width: 1140px;
+    height: 696px;
+    border-radius: 14px;
+    margin-top: 50px;
+    margin-right: 150px;
+    margin-left: 170px;
+    margin-bottom: 175px;
+
+}
+
+.title1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Raleway', Arial, sans-serif;
+
+    text-align: center;
+    padding-top: 35px;
+}
+
+.title2 {
+    padding-top: 20px;
+    color: rgb(90, 89, 89);
+    text-align: center;
+}
+
+.button-Get-Started-Free {
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+    padding: 12px 36px;
+    font-weight: bold;
+    font-size: 14px;
+    border: none;
+
+
+}
+
+
+
+.Get-Started-Free {
+    padding-left: 470px;
+    padding-top: 37px;
+    padding-right: 0px;
+    width: 195px;
+    height: 48px;
+}
+
+.better-image {
+    margin-left: 130px;
+    border-radius: 48px;
+    padding: 20px;
+}
+
+.button-Get-Started-Free:hover {
+
+    background-color: rgb(233, 110, 110);
+    cursor: pointer;
+
+}
+
+.footer-main {
+    display: flex;
+    gap: 115px;
+    padding-bottom: 71px;
+
+}
+
+.form-title {
+    font-size: 97px;
+    font-weight: bold;
+    font-family: 'Raleway', Arial, sans-serif;
+    padding-left: 150px;
+}
+
+.email {
+    width: 497px;
+    height: 50px;
+}
+
+.footer-button {
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+    padding: 12px 36px;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    width: 510px;
+    height: 50px;
+}
+
+.footer-button:hover {
+    background-color: rgb(233, 110, 110);
+    cursor: pointer;
+}
+
+.final-footer-title {
+    color: #4E47FF;
+    font-size: 100px;
+    font-family: 'Inter', 'Open Sans', Arial, sans-serif;
+    font-weight: bold;
+    padding-top: 100px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.footer-description {
+    color: #8987A1;
+
+
+    text-align: center;
+
+}
+
+.final-footer {
+    width: 1500px;
+    height: 428px;
+    background-color: rgb(242, 242, 234);
+
+}
+
+.footer-list {
+    display: flex;
+    list-style: none;
+    gap: 32px;
+    padding-top 20;
+
+    color: #8987A1;
+    justify-content: center
+}
